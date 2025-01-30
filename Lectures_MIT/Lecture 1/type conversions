@@ -1,0 +1,14 @@
+float(123)
+123.0
+
+round(7.9)#perform like maths
+8
+
+float(round(7.2)
+7.0
+
+int(7.2)
+7
+
+int(7.9)
+7
