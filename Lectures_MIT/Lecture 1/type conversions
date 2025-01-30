@@ -12,3 +12,21 @@ int(7.2)
 
 int(7.9)
 7
+
+
+#expressions
+#operations are performed left to right like maths
+#inside parenthesis value are evaluated
+# Precedence>>>**,*/%,+- left to right
+
+a=(13-4) / (12*12)
+b=type(4*3)
+c=type(4.0*3)
+d=int(1/2)
+print(a,"\n",b,"\n",c,"\n",d)
+
+0.375
+<class 'int'>
+<class 'float'>
+0
+
